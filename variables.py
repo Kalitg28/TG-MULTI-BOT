@@ -18,7 +18,7 @@ DB_URL = os.environ.get("DB_URL", "")
 
 DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
-RemoveBG_API = os.environ.get("RemoveBG_API", "")
+RemoveBG_API = os.environ.get("RemoveBG_API", "zgM3NxBkFF8a1bESQenR5tvu")
 
 FORCE_SUB = os.environ.get("FORCE_SUB", None)           
 
